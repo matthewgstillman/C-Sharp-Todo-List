@@ -1,1 +1,19 @@
-﻿The table will be here
+﻿@model TodoViewModel
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model.TodoList)
+        {
+            <tr>
+                <th class="todos-column" scope="row">@t.Id</th>
+                <td class="todos-column">@t.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
