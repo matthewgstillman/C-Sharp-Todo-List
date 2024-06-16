@@ -28,3 +28,4 @@
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/TodoList/Todo/obj/Debug/net8.0/Todo.pdb
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/TodoList/Todo/obj/Debug/net8.0/Todo.genruntimeconfig.cache
 /Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/TodoList/Todo/obj/Debug/net8.0/ref/Todo.dll
+/Users/mattstillman/Desktop/ASP-NET-Mvc-Projects/TodoList/Todo/obj/Debug/net8.0/Todo.sourcelink.json
